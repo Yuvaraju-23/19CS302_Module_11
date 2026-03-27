@@ -24,8 +24,8 @@ To write a C program to reverse a string.
 ```
 /*
 C program to reverse a string.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: Yuvaraju T.S
+RegisterNumber:  212222063018
 */
 #include <stdio.h>
 
